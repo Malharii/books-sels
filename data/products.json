@@ -1,1 +1,14 @@
-[{"title":"dffsa"},{"title":"Another"},{"title":"fasdfdas"},{"title":"ss"},{"title":"aa"},{"title":"malhar"},{"title":"aaa"}]
+[
+  {
+    "title": "thius 1",
+    "imageUrl": "https://images.unsplash.com/photo-1715405156537-23c1ff9afdd8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHx8",
+    "description": "new",
+    "price": "145"
+  },
+  {
+    "title": "demo",
+    "imageUrl": "https://images.unsplash.com/photo-1715405156537-23c1ff9afdd8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHx8",
+    "description": "new product is asome",
+    "price": "14"
+  }
+]
